@@ -3,5 +3,3 @@
 实例地址
 
 http://jerryni.github.io/gifs/mac/regular-dirty-check.gif
-
-![gif1](http://jerryni.github.io/gifs/mac/regular-dirty-check.gif)
