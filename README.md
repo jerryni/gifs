@@ -2,6 +2,6 @@
 
 实例地址
 
-https://jerryni.github.io/gifs/mac/log.gif
+http://jerryni.github.io/gifs/mac/regular-dirty-check.gif
 
-![log](https://jerryni.github.io/gifs/mac/log.gif)
+![gif](http://jerryni.github.io/gifs/mac/regular-dirty-check.gif)
